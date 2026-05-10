@@ -1,0 +1,1071 @@
+{
+  "verFile": "0.4.0.0",
+  "drawingDataExtractor": {
+    "settings": {
+      "fileList": {
+        "folders": {},
+        "files": {
+          "h:\\unidades compartidas\\practicas_inst2\\5_gas_natural\\resultados_dmelect\\instalacion_gas.dwg": {
+            "original": "H:\\Unidades compartidas\\Practicas_Inst2\\5_Gas_natural\\Resultados_DMELECT\\instalacion_GAS.dwg",
+            "absolute": "H:\\Unidades compartidas\\Practicas_Inst2\\5_Gas_natural\\Resultados_DMELECT\\instalacion_GAS.dwg",
+            "special": "",
+            "relative": ".\\instalacion_GAS.dwg",
+            "environment": "",
+            "time": "2026-05-10T17:11:28.63Z",
+            "$type": "Autodesk.AutoCAD.DataExtraction.DxFileReference"
+          }
+        },
+        "xRefFiles": {},
+        "currentFile": {
+          "original": "H:\\Unidades compartidas\\Practicas_Inst2\\5_Gas_natural\\Resultados_DMELECT\\instalacion_GAS.dwg",
+          "absolute": "H:\\Unidades compartidas\\Practicas_Inst2\\5_Gas_natural\\Resultados_DMELECT\\instalacion_GAS.dwg",
+          "special": "",
+          "relative": ".\\instalacion_GAS.dwg",
+          "environment": "",
+          "time": "2026-05-10T17:11:28.63Z",
+          "$type": "Autodesk.AutoCAD.DataExtraction.DxFileReference"
+        },
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxFileList"
+      },
+      "selectedTypesAndProperties": [
+        {
+          "type": "Autodesk.AutoCAD.DatabaseServices.BlockReference, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+          "props": {
+            "AcDxObjectTypeGlobalName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeGlobalName",
+              "displayName": "Nombre",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxObjectTypeName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeName",
+              "displayName": "Nombre",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Color": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Color",
+              "displayName": "Color",
+              "propValueType": "Autodesk.AutoCAD.Colors.Color, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LinetypeScale": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LinetypeScale",
+              "displayName": "Escala de tipo de l\u00EDnea",
+              "propValueType": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "PlotStyleName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "PlotStyleName",
+              "displayName": "Estilo de trazado",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LineWeight": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LineWeight",
+              "displayName": "Grosor de l\u00EDnea",
+              "propValueType": "Autodesk.AutoCAD.DatabaseServices.LineWeight, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxEntityHyperlink": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxEntityHyperlink",
+              "displayName": "Hiperv\u00EDnculo",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Linetype": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Linetype",
+              "displayName": "Tipo de l\u00EDnea",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            }
+          },
+          "displayName": "APARATO_GAS",
+          "inUse": true,
+          "blockName": "APARATO_GAS",
+          "$type": "Autodesk.AutoCAD.DataExtraction.BlockReferenceTypeDescriptor"
+        },
+        {
+          "type": "Autodesk.AutoCAD.DatabaseServices.BlockReference, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+          "props": {
+            "AcDxObjectTypeGlobalName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeGlobalName",
+              "displayName": "Nombre",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxObjectTypeName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeName",
+              "displayName": "Nombre",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Color": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Color",
+              "displayName": "Color",
+              "propValueType": "Autodesk.AutoCAD.Colors.Color, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LinetypeScale": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LinetypeScale",
+              "displayName": "Escala de tipo de l\u00EDnea",
+              "propValueType": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "PlotStyleName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "PlotStyleName",
+              "displayName": "Estilo de trazado",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LineWeight": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LineWeight",
+              "displayName": "Grosor de l\u00EDnea",
+              "propValueType": "Autodesk.AutoCAD.DatabaseServices.LineWeight, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxEntityHyperlink": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxEntityHyperlink",
+              "displayName": "Hiperv\u00EDnculo",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Linetype": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Linetype",
+              "displayName": "Tipo de l\u00EDnea",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            }
+          },
+          "displayName": "CONEXION_PLANTAS_GAS",
+          "inUse": true,
+          "blockName": "CONEXION_PLANTAS_GAS",
+          "$type": "Autodesk.AutoCAD.DataExtraction.BlockReferenceTypeDescriptor"
+        },
+        {
+          "type": "Autodesk.AutoCAD.DatabaseServices.BlockReference, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+          "props": {
+            "AcDxObjectTypeGlobalName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeGlobalName",
+              "displayName": "Nombre",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxObjectTypeName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeName",
+              "displayName": "Nombre",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Color": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Color",
+              "displayName": "Color",
+              "propValueType": "Autodesk.AutoCAD.Colors.Color, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LinetypeScale": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LinetypeScale",
+              "displayName": "LinetypeScale",
+              "propValueType": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "PlotStyleName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "PlotStyleName",
+              "displayName": "PlotStyleName",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LineWeight": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LineWeight",
+              "displayName": "LineWeight",
+              "propValueType": "Autodesk.AutoCAD.DatabaseServices.LineWeight, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxEntityHyperlink": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxEntityHyperlink",
+              "displayName": "Hiperv\u00EDnculo",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Linetype": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Linetype",
+              "displayName": "Linetype",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            }
+          },
+          "displayName": "CONEXION_RED_GAS",
+          "inUse": true,
+          "blockName": "CONEXION_RED_GAS",
+          "$type": "Autodesk.AutoCAD.DataExtraction.BlockReferenceTypeDescriptor"
+        },
+        {
+          "type": "Autodesk.AutoCAD.DatabaseServices.BlockReference, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+          "props": {
+            "AcDxObjectTypeGlobalName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeGlobalName",
+              "displayName": "Nombre",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxObjectTypeName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeName",
+              "displayName": "Nombre",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Color": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Color",
+              "displayName": "Color",
+              "propValueType": "Autodesk.AutoCAD.Colors.Color, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LinetypeScale": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LinetypeScale",
+              "displayName": "LinetypeScale",
+              "propValueType": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "PlotStyleName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "PlotStyleName",
+              "displayName": "PlotStyleName",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LineWeight": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LineWeight",
+              "displayName": "LineWeight",
+              "propValueType": "Autodesk.AutoCAD.DatabaseServices.LineWeight, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxEntityHyperlink": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxEntityHyperlink",
+              "displayName": "Hiperv\u00EDnculo",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Linetype": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Linetype",
+              "displayName": "Linetype",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            }
+          },
+          "displayName": "CONTADOR_GAS",
+          "inUse": true,
+          "blockName": "CONTADOR_GAS",
+          "$type": "Autodesk.AutoCAD.DataExtraction.BlockReferenceTypeDescriptor"
+        },
+        {
+          "type": "Autodesk.AutoCAD.DatabaseServices.BlockReference, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+          "props": {
+            "AcDxObjectTypeGlobalName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeGlobalName",
+              "displayName": "Nombre",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxObjectTypeName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeName",
+              "displayName": "Nombre",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Color": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Color",
+              "displayName": "Color",
+              "propValueType": "Autodesk.AutoCAD.Colors.Color, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LinetypeScale": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LinetypeScale",
+              "displayName": "LinetypeScale",
+              "propValueType": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "PlotStyleName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "PlotStyleName",
+              "displayName": "PlotStyleName",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LineWeight": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LineWeight",
+              "displayName": "LineWeight",
+              "propValueType": "Autodesk.AutoCAD.DatabaseServices.LineWeight, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxEntityHyperlink": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxEntityHyperlink",
+              "displayName": "Hiperv\u00EDnculo",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Linetype": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Linetype",
+              "displayName": "Linetype",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            }
+          },
+          "displayName": "LLAVE_PASO_GAS",
+          "inUse": true,
+          "blockName": "LLAVE_PASO_GAS",
+          "$type": "Autodesk.AutoCAD.DataExtraction.BlockReferenceTypeDescriptor"
+        },
+        {
+          "type": "Autodesk.AutoCAD.DatabaseServices.BlockReference, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+          "props": {
+            "AcDxObjectTypeGlobalName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeGlobalName",
+              "displayName": "Nombre",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxObjectTypeName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeName",
+              "displayName": "Nombre",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Color": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Color",
+              "displayName": "Color",
+              "propValueType": "Autodesk.AutoCAD.Colors.Color, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LinetypeScale": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LinetypeScale",
+              "displayName": "LinetypeScale",
+              "propValueType": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "PlotStyleName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "PlotStyleName",
+              "displayName": "PlotStyleName",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LineWeight": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LineWeight",
+              "displayName": "LineWeight",
+              "propValueType": "Autodesk.AutoCAD.DatabaseServices.LineWeight, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxEntityHyperlink": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxEntityHyperlink",
+              "displayName": "Hiperv\u00EDnculo",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Linetype": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Linetype",
+              "displayName": "Linetype",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            }
+          },
+          "displayName": "NUDO_DERIVACION_GAS",
+          "inUse": true,
+          "blockName": "NUDO_DERIVACION_GAS",
+          "$type": "Autodesk.AutoCAD.DataExtraction.BlockReferenceTypeDescriptor"
+        },
+        {
+          "type": "Autodesk.AutoCAD.DatabaseServices.BlockReference, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+          "props": {
+            "AcDxObjectTypeGlobalName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeGlobalName",
+              "displayName": "Nombre",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxObjectTypeName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeName",
+              "displayName": "Nombre",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Color": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Color",
+              "displayName": "Color",
+              "propValueType": "Autodesk.AutoCAD.Colors.Color, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LinetypeScale": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LinetypeScale",
+              "displayName": "LinetypeScale",
+              "propValueType": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "PlotStyleName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "PlotStyleName",
+              "displayName": "PlotStyleName",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LineWeight": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LineWeight",
+              "displayName": "LineWeight",
+              "propValueType": "Autodesk.AutoCAD.DatabaseServices.LineWeight, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxEntityHyperlink": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxEntityHyperlink",
+              "displayName": "Hiperv\u00EDnculo",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Linetype": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Linetype",
+              "displayName": "Linetype",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            }
+          },
+          "displayName": "NUDO_PASO_GAS",
+          "inUse": true,
+          "blockName": "NUDO_PASO_GAS",
+          "$type": "Autodesk.AutoCAD.DataExtraction.BlockReferenceTypeDescriptor"
+        },
+        {
+          "type": "Autodesk.AutoCAD.DatabaseServices.BlockReference, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+          "props": {
+            "AcDxObjectTypeGlobalName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeGlobalName",
+              "displayName": "Nombre",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxObjectTypeName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeName",
+              "displayName": "Nombre",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Color": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Color",
+              "displayName": "Color",
+              "propValueType": "Autodesk.AutoCAD.Colors.Color, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LinetypeScale": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LinetypeScale",
+              "displayName": "LinetypeScale",
+              "propValueType": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "PlotStyleName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "PlotStyleName",
+              "displayName": "PlotStyleName",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LineWeight": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LineWeight",
+              "displayName": "LineWeight",
+              "propValueType": "Autodesk.AutoCAD.DatabaseServices.LineWeight, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxEntityHyperlink": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxEntityHyperlink",
+              "displayName": "Hiperv\u00EDnculo",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Linetype": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Linetype",
+              "displayName": "Linetype",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            }
+          },
+          "displayName": "TOMA_PRESION_GAS",
+          "inUse": true,
+          "blockName": "TOMA_PRESION_GAS",
+          "$type": "Autodesk.AutoCAD.DataExtraction.BlockReferenceTypeDescriptor"
+        },
+        {
+          "type": "Autodesk.AutoCAD.DatabaseServices.BlockReference, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+          "props": {
+            "AcDxObjectTypeGlobalName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeGlobalName",
+              "displayName": "Nombre",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxObjectTypeName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeName",
+              "displayName": "Nombre",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Color": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Color",
+              "displayName": "Color",
+              "propValueType": "Autodesk.AutoCAD.Colors.Color, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LinetypeScale": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LinetypeScale",
+              "displayName": "LinetypeScale",
+              "propValueType": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "PlotStyleName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "PlotStyleName",
+              "displayName": "PlotStyleName",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LineWeight": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LineWeight",
+              "displayName": "LineWeight",
+              "propValueType": "Autodesk.AutoCAD.DatabaseServices.LineWeight, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxEntityHyperlink": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxEntityHyperlink",
+              "displayName": "Hiperv\u00EDnculo",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Linetype": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Linetype",
+              "displayName": "Linetype",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            }
+          },
+          "displayName": "VALVULA_REG_PRESION_GAS",
+          "inUse": true,
+          "blockName": "VALVULA_REG_PRESION_GAS",
+          "$type": "Autodesk.AutoCAD.DataExtraction.BlockReferenceTypeDescriptor"
+        }
+      ],
+      "selectedObjectHandles": [],
+      "extractFlags": 5,
+      "BlockNameToImageMap": {
+        "BlockReferenceTypeDescriptor.CONEXION_PLANTAS_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADvSURBVFhHxY5bDsQgDAO5/6V3lY8uMA5twqNraYTkEMellPL5M2KEacVZAjFcPHlz7gUQoyMb3IqzAWJ0YfQyBIuI8VumN8tDlhhPC1PcZOrHS5ytMsjUT6dKDPL6D56cpWmcvDq4E4NWQF41I2LYDMipZlQMzIKMambE0AzYzx\u002B/xOAo2J0vYGJ4lGZ3rYCJ4RGavfUCJh54otmpxqp4ZAT\u002B7itg4jEP/NtbwMSDBH/6wQ7xIMGf/QVMPDo43hc4XcLzjhYwMZv3pMCpEtfrIMaxEgPE2F6CueECO0owz0EMl6y4f4MYISjOE4jxKl8F32MOpyRSGgAAAABJRU5ErkJggg==",
+        "BlockReferenceTypeDescriptor.CONEXION_RED_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAC/SURBVFhHxZBJDsMwDMT8/0\u002Bnlxhwh5ItIcHEAA\u002BlRks6xhjXx0C4gXAD4QbCDYQbCDcQj9Cn9QCINruFmV\u002BAaHEYXslBlCh8GUjyEFmwnYkI\u002BhiawSC8G1RGehnQsC7T311aB0RNnxwwG\u002BfTWpdlxv/g6tOBXZYZLGa8dYD0M6DoUtsBulhr6qocD9gtToaUCfoYqhAMOpL0QJSp/FNrVt0NRJvTIbvaKwdMsqc5AcINhBsINxBuINxAuIGw8gP5xN9Z8XoULAAAAABJRU5ErkJggg==",
+        "BlockReferenceTypeDescriptor.NUDO_DERIVACION_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACeSURBVFhH7ZaxDoAwCET5/5/WdNC0RyEQKTB4yVvOeLzBQSKiqxhWmHmCvRNWiHiC7yqwYuFLcEuAFSHH5\u002BCuSSA6uK8KnAre2QqcDt5bBDJSLjDSUyA7v0C5wMgrUJU\u002BAlUSpQLlH2E/gWyJUoH5Zq//gdMCeGsrcEoCb6gC0RK4bRKIksDNDawIk8AtAVaIeILvKrDCBAafO2BFKjcLm7bku7fpsAAAAABJRU5ErkJggg==",
+        "BlockReferenceTypeDescriptor.LLAVE_PASO_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADMSURBVFhH1ZCJCoQwDET7/z/tsmyDdXJrGtnAg2ZyjY4xxvEyTOiGCd0woRsmdDOObwiFrSw3fwkFNlYj3Lr\u002BgZ0mlDv8KOYV4E7TAGmSnkXb4xoQGtNYs2EDkbqEN5MyQD3VffMdMyAMMqwactsA9a8zmEd4ZGBd8mR2vv/QAB7GPMJtA1avVUPSBihQRzJ98\u002B0b8OoS3kzYgFXzsGZdAxSoZ9H2mAYwrwB3qgawsRLlzvmbdh4nhFt7v1rjYuBlmNANE7phQjdMaOUDJ6QnIAWGfl4AAAAASUVORK5CYII=",
+        "BlockReferenceTypeDescriptor.APARATO_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACKSURBVFhH7Y5BEoAwCAP5/6frSQcxhUjb4UJm9qAJuiIioxgZVXkJALOjtEALtMAWAR3bRSwJoJ/a54i0gLf1OssRAaYHO/7o79YjJcDuGFpgq4CN7RFqN/8wItpGPdjxR8w26sGOP4q2XmdJC8z26J3HksB9o2P7CHWTE1ilBVqgBT4CFXkEKrkADi2zk55bYfQAAAAASUVORK5CYII=",
+        "BlockReferenceTypeDescriptor.NUDO_PASO_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACeSURBVFhH7ZaxDoAwCET5/5/WdNC0RyEQKTB4yVvOeLzBQSKiqxhWmHmCvRNWiHiC7yqwYuFLcEuAFSHH5\u002BCuSSA6uK8KnAre2QqcDt5bBDJSLjDSUyA7v0C5wMgrUJU\u002BAlUSpQLlH2E/gWyJUoH5Zq//gdMCeGsrcEoCb6gC0RK4bRKIksDNDawIk8AtAVaIeILvKrDCBAafO2BFKjcLm7bku7fpsAAAAABJRU5ErkJggg==",
+        "BlockReferenceTypeDescriptor.TOMA_PRESION_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACsSURBVFhH7Y5JCgNBEMP6/59OToFgUYsdyFzaoIum7Olzznk9DARIozsFEMAYSzoQwBhLOhDAGEs6EMAYSzoQwBhLOhDAGEs6EMAYSzoQwBhLOhDAGEs6EMAYSzoQwBhLOhAgje4UQFgYP6qAsLgPuA\u002B4D3jsAd/RbyYQI1X0bglEyxS9XwDRMkXvF0C0TNH7BRAtU/R\u002BAUTLFL1fADFSRe\u002BWQKz58ccfIP7KGzYWU/PHDYsGAAAAAElFTkSuQmCC",
+        "BlockReferenceTypeDescriptor.VALVULA_REG_PRESION_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAC1SURBVFhHxY5bDsQwCAO5/6W7P2TlmrQNCQ\u002BkkagJZURErmZMUI0JqjFBNSaoRq6uugmgyMQynKkADrNlXgX4YYbMsgAvrb79YksAl09ljgT4RzsyYQKIRyRFYIDFM3yjfbwA8iRTJoCgSIvAAEXKBLDGt87yBPgoz7SPFXg7yu\u002B0PxdYPco72u8LeI/yrvY\u002BASyeeXAJRB1FPgUyjiJTgeyjiBHoqL9AMyaoxgTVmKAaE5TyA7kHxYGle4faAAAAAElFTkSuQmCC",
+        "BlockReferenceTypeDescriptor.CONTADOR_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABPSURBVFhH7c5BCgAgCETRuf\u002BlbRcUUhCKBn/gb1zIkyQrTla1BeDIUgPQHxA97/8VsN9e834B\u002BAMQOe//EZAdAAAAAAAAAABAP0DFJqCyAedU5mAkP84yAAAAAElFTkSuQmCC",
+        "BlockReferenceTypeDescriptor.Conexion a red": "iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADoSURBVFhHzZMxDsQwCAT983t6rooUMYANuNhiikxYWEXKWms94kCoAaEGhBoQakCoAaEGhBoQakBc4/nF2NkEiCvsShTKQow4PIqMdR8g2mwOpSRZiDbJkSOCPMQu4FKZzXD2QCDghDBj3QSzjwMeWYnsXYdWwTdoy9jnG7QLegskC75LvC96A7fg92AVe2CKW7CKbEFbSqagLWbfWTehVDAr9p2xbsJxwcrhymyGsweijbO8RJCHaBMcOCLJQoxIDoVsMhBjTn6swhzENd4CEXY\u002BAEINCDUg1IBQA0INCDUg1IBQA0KKP3i4w2Nmbl7/AAAAAElFTkSuQmCC",
+        "BlockReferenceTypeDescriptor.Conexi\u00F3n entre plantas": "iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAEjSURBVFhHzZbLjgMhDATnz/PpE80hQVSbh8EwHEqRKqa7V3vJdV3XfTgiTkOEi/tTh/cDiKjiHeC9NxBRZLBgNkOEMPHXmzjzRGQ4gtx0ZovwBkzR0SHi/9D5rxim0SHi/\u002BiQkSJk3I6RlXw9rMH7SAr5etSCb6IoZOcHvRhBIRjZ\u002BZceGB4FspMcgeERhA5cMTJ8IAKnQV6Ss7BoFGQlGQHLRkBOklGw0AsykoyEpR7wPsloWNwL3ia5Apb3gHdJroIDWuBN/sUqOKIG7vcMfOAQC\u002BNu38AHDmI/3dDvwVnY6Rr41kjLvTrwgZ3cURy4e\u002BTvs4CIV0ZWELF1JPsMRAgMjYI9BUSYMHwW5lcQUYVFXpjXgYguWNyC7x2IOA0RR/EFONCevLJbL\u002BMAAAAASUVORK5CYII=",
+        "BlockReferenceTypeDescriptor.Derivaci\u00F3n": "iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADOSURBVFhH7dYxDgMhDAVRbp6jb5QiUjLfgIkJeCWK11iLPeWWUsqVnAyykYHb9fDhu0EyaOLxEdzlJIMqHvwV93bIQPDADLzRIIMvXDwb7xlksCzujXddgVzyb7zfDOTjVdhhBvLRauy5VyA/3uUERpmB/Gi3Exh1AqNOYNQJjLpfYLbI1IGfTen\u002BB19SB7InVSBbzMCdkeyoBu6I5P1u4MpI3nUHrojkPYMMBJfOwjsVMjBxeQR3d8igicdGcZ\u002BDDNx4vIVvB8ggGxmk8gT7L0jXec/pOAAAAABJRU5ErkJggg==",
+        "BlockReferenceTypeDescriptor.Codo": "iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADOSURBVFhH7dYxDgMhDAVRbp6jb5QiUjLfgIkJeCWK11iLPeWWUsqVnAyykYHb9fDhu0EyaOLxEdzlJIMqHvwV93bIQPDADLzRIIMvXDwb7xlksCzujXddgVzyb7zfDOTjVdhhBvLRauy5VyA/3uUERpmB/Gi3Exh1AqNOYNQJjLpfYLbI1IGfTen\u002BB19SB7InVSBbzMCdkeyoBu6I5P1u4MpI3nUHrojkPYMMBJfOwjsVMjBxeQR3d8igicdGcZ\u002BDDNx4vIVvB8ggGxmk8gT7L0jXec/pOAAAAABJRU5ErkJggg==",
+        "BlockReferenceTypeDescriptor.Aparato de utilizacion": "iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACqSURBVFhH7c7BCsMwDIPhvPkevaOMXRx5USqv9UGHD0oqwz/GGEdz00M3n4/j1QsMBPWPcKDKgSoHqhyoKg88bzNxyygNXN2t/iNlgcwNs4luDdzZJXv4SLlywygJ3N3vcKDKgee/KG5\u002B\u002BXtgtLMFe/hIYW/YXbKHjxT2ht0le/hIYW6YTVQWyNyt/iOlgd/bTNwyygOrOVDlQJUDVQ5UpYGdTIGNTQ\u002BtvAFN\u002BUhAuM7yeAAAAABJRU5ErkJggg==",
+        "BlockReferenceTypeDescriptor.Toma de presion": "iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADiSURBVFhH7dUxcsQwEANB/dxPP9elGMPiDhUoYNAJSpzaTNd1XZ\u002BXw/A2GKrPzzOyewNDJeIgGhgqEQfRwFCJOIgGhkrEQTQwVCIOooGhEnEQDQyViINoYKhEHEQDQyXiIBoYKhEH0cBQiTiIBoZKxEE0MFQiDqKBofrGn5DdGxi2iAPuYNhyDtx1Dtx1Dtx1Dtx1DrQ2/7f/wTCSh6X8XsAwkgf9Jd8MYViWhzT5bgjDsjykyXdDGJblIU2\u002BG8KwLA9p8t0QhmV5SJPvhjCM5DEpvxcwjOVRDx73heFtMLzKL/wFJe7FsiegAAAAAElFTkSuQmCC",
+        "BlockReferenceTypeDescriptor.Tuber\u00EDa": "iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABqSURBVFhHzc6xDQAgAMOwfs7pMDDmAQ\u002BWqkzdtotL0CRoEjQJmgRNgiZBk6BJ0CRoEjQJmgRNgiZBk6BJ0CRoEjR/3GPJQViCJkGToEnQJGgSNAmaBE2CJkGToEnQJGgSNAmaBE2CJoHyAOsob9OagNgoAAAAAElFTkSuQmCC",
+        "BlockReferenceTypeDescriptor.Llave de paso": "iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAD/SURBVFhHzZLLDkIhDET5cz/9ujAE0pYy7S0yi5PI9HWittbaQ44K2FABGypgQwVsqICN34fnowrXEC4jZJA0PEZh0fAX5ruu4Op9EnkLElxl1Vg3YMGer2pv8PaGBNF6hN2ulCDaswPZkRbsfWhvdu6VYKY/0mv0myEEMoP0SMoEd3NezaNUsM/O8/IdpVxw3lG1Z3qbYQpaQSkm31FKBb05r\u002BZRJojMID2SEsFIf6TX6DfDJdn/V2QuLYj07EB2pAR39Qi7XSHByE8TwdsLC1pZNdYNSFC\u002BTyJvuYLeV3\u002BS\u002Be5S8IaYxPAYBdl8C1OQGBWwoQI2VMCGCthQARVfdO7zI2U7X4AAAAAASUVORK5CYII=",
+        "BlockReferenceTypeDescriptor.Regulador_presion": "iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADdSURBVFhHzZHBDsMgDEP58316d5jYrCRlhJrgw5MaQ6pXt7XWLnFcoIYL1HCBGi5QwwVqfB6ulxahIIoGX1LGUBDnU7JTgnZhdM4mLYh3KmSXBe1LsjuzUARxjy1LFURYotsEO09b3S6IrIiWCnYyrR4RRP6JHhfs3LUqI4igqKRgJ2j0d2AvV2F/tYxg0NY3hzkMt2HbiigXnJGy92EOQwoZKbsHcxguk20rgi7IkEJogkwp5JEgu62ItGCFFDItWCmFDAWr24q4FVTCCQrjAjVcoIYL1HCBGi6Q4g1JJFQwyKRLCQAAAABJRU5ErkJggg==",
+        "BlockReferenceTypeDescriptor.Contador gas": "iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABxSURBVFhH7dIxDsAgDARB/zxPJ0U6fAXokmDQFiMhN7cFERGtuHSo5nm0qxYZKOqXINB1TmD/cb\u002BidocD\u002B9vb1AaBM9QGgTPUxlmBf1C7Q4GrEOgi0EWgi0AXgS4CXQS6CHQR6CLQtW9gJSmwsHQo5QaHA2qSiUl79gAAAABJRU5ErkJggg==",
+        "BlockReferenceTypeDescriptor.plano_plantilla_TFG": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABdSURBVFhH7Y4xCsAwDMT8/0\u002Bn4KGDaMF4sDNIcBAMd1GcZYKHaRRQIAUiYiWfAl04Xkn2WO7C8Uqyx3IXjnPz981yF35aSfZYnkABBRRQQAEF7haYzCuwiQIKrAs8HTezBJMnzp8AAAAASUVORK5CYII=",
+        "DEPOSITO_PRESION_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACaSURBVFhHxZHLCsAgDAT9/59uL4KPNYENdhqYg0N2FWyttednRNCIoBFBI4JGBI0IGhE0ImjG4eYcLopYH3BYsDF7RsgMhpg9I2QGQ8yuUijF7CqFUsyu8WdGKGWe/TxP3//2Adn0/TW0l1Uwu0qhFLOrFEoxu0qhFLOnHAwxe9bgrTlcFCGCRgSNCBoRNCJoRNCIoBFBIwLlBSlSGC/eYiMyAAAAAElFTkSuQmCC",
+        "ESTACION_REG_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABrSURBVFhH7Y5RCoAwDENz/0vPr0ktiW6i1EkC76NpCw8AWjFoVTkIELNXsYAFLGCBNQVyVDdCuJ0TuOryrFhXoId1PfmPEe7mBM46tlf8U4DNitsCMew3z4pwN/70JBawgAUs8D2BiuwClWxkVsWB6KMqkgAAAABJRU5ErkJggg==",
+        "ESTACION_REG_M_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACPSURBVFhH7Y7RCsAgCEX9/59uDNZwh6vrJdxAQcrTrY6Z2ShuG1X1EBBmW7sFWqAFWuAfAqoUF4\u002BmDHwpFPJZ5Cob8KVQyr2AP\u002BOs7rwK\u002BIr4WepDznz72ucCZOTcz5kr2/GlUMi5nzNXtuNLoZTzM3/OrOB5iKXy5P6cWcHj0M5ugRZogRb4nkBF3QKVfQBxtB82\u002B/xBEgAAAABJRU5ErkJggg==",
+        "LIMITADOR_PRESION_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACnSURBVFhHxc5RDoAwCANQ7n9pzT40OmGjCMWkH26jPBGRozlydH0vgCIrSyvg2tUCeO6hA\u002BYdVIDWTwNY3RTAqrccsOssBXj6ygDerhIA0pMOQDtSAZH5NEB0NgUQnZtmY0WRGWMeL0PfawkDkLerhADed57AAM8bJBBgdx\u002BJG7C6\u002BxMXwDrPyBagnWVmCZj/K2ICGMtHVABr\u002BcgHwFw\u002BogLY3w3ozAm/PqqcdDPizgAAAABJRU5ErkJggg==",
+        "VALVULA_SEG_E_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAB/SURBVFhH7Y5LCsAwCES9/6VbCiU0jtYx0GYzwlvkxc\u002BYmR2bAbHMVd4RgGjxrOhNAKJFdqgRAgRNdaD6vwFBwxwgekBMw1X5GQ/RA4IeZv6rns8DeBcAorUg68l8AIj2kqh8zwsgBs1Fq4AYKIACKIACKIACKIACKMD2AH9wAoPor4kNPZRrAAAAAElFTkSuQmCC",
+        "VALVULA_SEG_C_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABnSURBVFhH7Y5LCsAgDAVz/0u3K6G8D4lCcfMCs3AUM1VVz2VIbLMG/RASW3yXH0aQGKMWKtdAwqJGvUHXQMKCn6sIPA8gYVGf4\u002BD9ABKWwwUdJCwJSEACEpCABCQgAQlIQAKuB/zBC8HDhbOHLNq/AAAAAElFTkSuQmCC",
+        "MAX_IZQ_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACwSURBVFhHzZVBCsAgEAP3/5\u002B2lFLRTbK2h8YKA\u002B4kotBDIyLaZkC4AeEGhBsQbkC4AeEGhBsQbkC4iXYuEkyozltP8nW56ihfZclfQpWr/HYse\u002BH1BeMBlt\u002BOZbmj5ukTkLB7lq3OPezVBZWt5kyRz2Eubn1AtVeLXNC9yDFgB9Senatcnj99QJ6FB8FKfc4\u002BM\u002Baqa3nA094/fkabAeEGhBsQbkC4AeEGhBsQbkBYOQDCQQw7b7LTSwAAAABJRU5ErkJggg==",
+        "MAX_DER_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACwSURBVFhHzZVBCsAgEAP3/5\u002B2lFLRTbK2h8YKA\u002B4kotBDIyLaZkC4AeEGhBsQbkC4AeEGhBsQbkC4iXYuEkyozltP8nW56ihfZclfQpWr/HYse\u002BH1BeMBlt\u002BOZbmj5ukTkLB7lq3OPezVBZWt5kyRz2Eubn1AtVeLXNC9yDFgB9Senatcnj99QJ6FB8FKfc4\u002BM\u002Baqa3nA094/fkabAeEGhBsQbkC4AeEGhBsQbkBYOQDCQQw7b7LTSwAAAABJRU5ErkJggg==",
+        "MIN_IZQ_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACnSURBVFhHzZEBCoAwDAP7/08rgsJM0q6oZAoH2yVlBSMitsWQcEPCDQk3JNyQcEPCDQk3JNzEdnwiIFSv65Ch0xvIeplTHjvnuT\u002BgOplTHjvnuT\u002BgOpVTGXZuvyAbqPKZUzn4\u002BoFZPnMqB18/MMs7Du/g6o2r7I2zL4D\u002BvwuM98w/cZgtW\u002BDKh44e\u002BNphvnQB6HBohoQbEm5IuCHhhoQbEm5IuCFhZQeskTMUcdFFAgAAAABJRU5ErkJggg==",
+        "MIN_DER_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACnSURBVFhHzZEBCoAwDAP7/08rgsJM0q6oZAoH2yVlBSMitsWQcEPCDQk3JNyQcEPCDQk3JNzEdnwiIFSv65Ch0xvIeplTHjvnuT\u002BgOplTHjvnuT\u002BgOpVTGXZuvyAbqPKZUzn4\u002BoFZPnMqB18/MMs7Du/g6o2r7I2zL4D\u002BvwuM98w/cZgtW\u002BDKh44e\u002BNphvnQB6HBohoQbEm5IuCHhhoQbEm5IuCFhZQeskTMUcdFFAgAAAABJRU5ErkJggg==",
+        "MAX_IZQ_CEN_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACwSURBVFhHzZVBCsAgEAP3/5\u002B2lFLRTbK2h8YKA\u002B4kotBDIyLaZkC4AeEGhBsQbkC4AeEGhBsQbkC4iXYuEkyozltP8nW56ihfZclfQpWr/HYse\u002BH1BeMBlt\u002BOZbmj5ukTkLB7lq3OPezVBZWt5kyRz2Eubn1AtVeLXNC9yDFgB9Senatcnj99QJ6FB8FKfc4\u002BM\u002Baqa3nA094/fkabAeEGhBsQbkC4AeEGhBsQbkBYOQDCQQw7b7LTSwAAAABJRU5ErkJggg==",
+        "MAX_DER_CEN_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACwSURBVFhHzZVBCsAgEAP3/5\u002B2lFLRTbK2h8YKA\u002B4kotBDIyLaZkC4AeEGhBsQbkC4AeEGhBsQbkC4iXYuEkyozltP8nW56ihfZclfQpWr/HYse\u002BH1BeMBlt\u002BOZbmj5ukTkLB7lq3OPezVBZWt5kyRz2Eubn1AtVeLXNC9yDFgB9Senatcnj99QJ6FB8FKfc4\u002BM\u002Baqa3nA094/fkabAeEGhBsQbkC4AeEGhBsQbkBYOQDCQQw7b7LTSwAAAABJRU5ErkJggg==",
+        "MIN_IZQ_CEN_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACnSURBVFhHzZEBCoAwDAP7/08rgsJM0q6oZAoH2yVlBSMitsWQcEPCDQk3JNyQcEPCDQk3JNzEdnwiIFSv65Ch0xvIeplTHjvnuT\u002BgOplTHjvnuT\u002BgOpVTGXZuvyAbqPKZUzn4\u002BoFZPnMqB18/MMs7Du/g6o2r7I2zL4D\u002BvwuM98w/cZgtW\u002BDKh44e\u002BNphvnQB6HBohoQbEm5IuCHhhoQbEm5IuCFhZQeskTMUcdFFAgAAAABJRU5ErkJggg==",
+        "MIN_DER_CEN_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACnSURBVFhHzZEBCoAwDAP7/08rgsJM0q6oZAoH2yVlBSMitsWQcEPCDQk3JNyQcEPCDQk3JNzEdnwiIFSv65Ch0xvIeplTHjvnuT\u002BgOplTHjvnuT\u002BgOpVTGXZuvyAbqPKZUzn4\u002BoFZPnMqB18/MMs7Du/g6o2r7I2zL4D\u002BvwuM98w/cZgtW\u002BDKh44e\u002BNphvnQB6HBohoQbEm5IuCHhhoQbEm5IuCFhZQeskTMUcdFFAgAAAABJRU5ErkJggg==",
+        "MANOMETRO_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADdSURBVFhH7ZJBDsMwCAT9/0\u002B36iES3QGzJFF7aJFGSQZY\u002B5C11np8GQiLWNobAtGih168DESKe0jXT4BImQRPZq0LDAOnOxBvDIKAuQuRhphh6W4DRBoSK/ai0\u002B\u002B4vwEiXc7eq2eVUQCRLuu7fuuM9jZApAFa6uJstr8BYhqwxdiHmAaUmLsQwAw6uwMBBmFn5iFS3FB3LgBREkt7R1\u002BdAYRFVjpjAjHiwsEHECP\u002BF/jtC1z8\u002Bw8gWrLSmQEQLVXpnAlES1U6ZwLRUpXOmUC0ZKUzAyBsbjj8BcRHeQL2cUf/4VklaAAAAABJRU5ErkJggg==",
+        "VALVULA_ALIVIO_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADlSURBVFhHzZGNCsJADIPv/V9aQTbokjS97vZj4EOXNunQMcb4vAwZT0PGLShtM16\u002Bg3AQIcNiiiwmR4ZF/IQpKJxvkGGJRUWxnQXIsKjS7EWUJ\u002BBQJcy4LO4IuAS9ah6PqXkBl6Hn5ngY5xP4A0icZ0fxuSA/oIhyGeUl9II4x\u002BfZWeBUaGrfzQL6f8XvillhDjgew88OZzL/8wJ7wS6xWHIydyx49QUWSlayl5SsZC8pWcleUvLL7cJZARltMuFeAhktnHA3gYwWTribQEYLJ9xNIKOFE\u002B4mkNFGCXcMZDwNGY/yBZtjp5\u002BbpnaRAAAAAElFTkSuQmCC",
+        "FILTRO_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACuSURBVFhHxZGLCoQwDATz/z/tkTsO1Im1j2RbGJBJZJfWzOzYDIQaCDUQauzwEwxU/D7\u002BJ1io5io2lIBQl4D4InwSiAuCEhCg\u002BDYgHikqAdGkoATEK8lPAtFNUgmIIWZv4/QPhzOMlLjtcmGWntsI5lxaJQhpzbiUQRAUurICzvlJHsIdiHQa4Q5EKi/hDkQaHeEORBpbC3SGOxDLDIQ7EEsMhjsQaiDUQKiBkPIB7gRqzsXnPSYAAAAASUVORK5CYII=",
+        "Leyenda": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAB/SURBVFhH7ZJRCoAwFMPe/S\u002Btf4JBuoFGn7BAQXCuoVjbx9TxUKUlcRIgvIiZYXTulsDVN2R0Jgo8weje//4Ds4zOrgV6CVhJ9FqAsFQXsJLotQBhqS5gJbEW6LUAYakuYCXRawHCUl3ASqLXAoSluoCVRK8FCEt1ASuJ/PYFdiQyCZL6VvHzAAAAAElFTkSuQmCC",
+        "instalacion_3D_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADGSURBVFhH7ZTRCsMgDEX98/nnHZY69J64hZrOFwuHkkMwF1tNKaVjMRDgeBHtmQAC6ECtJ4EAOlDrSSCADtR6EoiOnPNJ60oAy98EoqMOaodZAc6nvC90nS9AdOigQj0JxX9OxlMBvGiAGlD7DCDCcP6sEGHsADvAXwM8dgzvXkTV63oGEB0zV3FogNZZASxCAlhbqfUIZx8E0IW0HuHsgwC6kNYjnH0QoH6GFu2xcPZBhLED7ADLA/y6KS8gwli\u002BA8sDeHgDeh6fJUz4NTMAAAAASUVORK5CYII=",
+        "instalacion_UNI_GAS": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADJSURBVFhH7dPJDoMwDEXR/Hk/nQp1ULjXbtwmEouyOAs/TGwxtNbadjIFqe32wHySAnkN7rFnggLhQNaTFAgHsp6k4C175KwnKTjIFojyHykY4gKsv6RgqB9YwftBwRL90\u002BE1ULDUfy9w6jewKwzfKVjm1AWKj3\u002BnYIj/\u002BQjvBwUaFmWf9D28N6AgHFTJaXT9ScHhgGgQ60yxT4HwINaZYp8C4UGsM8U\u002BBdK/iuiVZIq9ClLFAw/9zAIKlrkWuBYofrQKlrkWqLgDDqme4\u002BF16dQAAAAASUVORK5CYII="
+      },
+      "$type": "Autodesk.AutoCAD.DataExtraction.DxDrawingDataExtractorSettings"
+    },
+    "$type": "Autodesk.AutoCAD.DataExtraction.DxDrawingDataExtractor"
+  },
+  "report": {
+    "strSort": "",
+    "strFilter": "",
+    "nCheckSum": 0,
+    "bGroupMatchingRows": false,
+    "ColLists": [
+      {
+        "strGlobalName": "AcDxCount",
+        "strDisplayName": "Total",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 1,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 0,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 10,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxHandleData",
+        "strDisplayName": "AcDxHandleData",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 16,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxObjectTypeGlobalName",
+        "strDisplayName": "Nombre",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 16,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxObjectTypeName",
+        "strDisplayName": "Nombre",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "Color",
+        "strDisplayName": "Color",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 0,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 0,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 3,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "LinetypeScale",
+        "strDisplayName": "Escala de tipo de l\u00EDnea",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": "%lu2",
+          "DataType": 2,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": "%lu2",
+          "DataType": 2,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 3,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "PlotStyleName",
+        "strDisplayName": "Estilo de trazado",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 3,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "LineWeight",
+        "strDisplayName": "Grosor de l\u00EDnea",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 0,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 0,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 3,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxEntityHyperlink",
+        "strDisplayName": "Hiperv\u00EDnculo",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 3,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "Linetype",
+        "strDisplayName": "Tipo de l\u00EDnea",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 3,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      }
+    ],
+    "bMultiSorted": false,
+    "bInAggregateMode": true,
+    "MergeSettingList": null,
+    "ColumnDataTypes": [
+      {
+        "Data": "System.Int32"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.Double"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      }
+    ],
+    "tblForInvalidGlobal": {},
+    "reportTable": [
+      "\u003CNewDataSet\u003E\r\n  \u003Cxs:schema id=\u0022NewDataSet\u0022 xmlns=\u0022\u0022 xmlns:xs=\u0022http://www.w3.org/2001/XMLSchema\u0022 xmlns:msdata=\u0022urn:schemas-microsoft-com:xml-msdata\u0022\u003E\r\n    \u003Cxs:element name=\u0022NewDataSet\u0022 msdata:IsDataSet=\u0022true\u0022 msdata:MainDataTable=\u0022_x0024_table_name_x0024_\u0022 msdata:UseCurrentLocale=\u0022true\u0022\u003E\r\n      \u003Cxs:complexType\u003E\r\n        \u003Cxs:choice minOccurs=\u00220\u0022 maxOccurs=\u0022unbounded\u0022\u003E\r\n          \u003Cxs:element name=\u0022_x0024_table_name_x0024_\u0022\u003E\r\n            \u003Cxs:complexType\u003E\r\n              \u003Cxs:sequence\u003E\r\n                \u003Cxs:element name=\u0022Nombre\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n              \u003C/xs:sequence\u003E\r\n            \u003C/xs:complexType\u003E\r\n          \u003C/xs:element\u003E\r\n        \u003C/xs:choice\u003E\r\n      \u003C/xs:complexType\u003E\r\n    \u003C/xs:element\u003E\r\n  \u003C/xs:schema\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CNombre\u003EConexi\u00F3n entre plantas\u003C/Nombre\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CNombre\u003EConexi\u00F3n a red\u003C/Nombre\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CNombre\u003EDerivaci\u00F3n o conexi\u00F3n ramas diferentes\u003C/Nombre\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CNombre\u003ELlave de paso\u003C/Nombre\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CNombre\u003EAparato de utilizaci\u00F3n\u003C/Nombre\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CNombre\u003ECodo\u003C/Nombre\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CNombre\u003EToma de presi\u00F3n\u003C/Nombre\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CNombre\u003ERegulador de presi\u00F3n\u003C/Nombre\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CNombre\u003EContador gas\u003C/Nombre\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n\u003C/NewDataSet\u003E"
+    ],
+    "$type": "Autodesk.AutoCAD.DataExtraction.DxReport"
+  },
+  "outputSettings": {
+    "ouputFlags": 2,
+    "fileName": "",
+    "fileOutputType": 0,
+    "tableStyleName": "Ing_Espa\u00F1a",
+    "manuallySetupTable": true,
+    "tableTitle": "",
+    "titleCellStyle": "T\u00EDtulo",
+    "headerCellStyle": "Encabezamiento",
+    "dataCellStyle": "Datos",
+    "usePropertyNameAsColumnHeader": true,
+    "$type": "Autodesk.AutoCAD.DataExtraction.DxOutputSettings"
+  },
+  "wizardSettings": {
+    "displayOptions": 27,
+    "unselectedCategiries": [
+      "Dibujo",
+      "Geometr\u00EDa",
+      "Varios",
+      "Visualizaci\u00F3n 3D"
+    ],
+    "selectedTypeNames": [
+      "BlockReferenceTypeDescriptor.APARATO_GAS",
+      "BlockReferenceTypeDescriptor.CONEXION_PLANTAS_GAS",
+      "BlockReferenceTypeDescriptor.CONEXION_RED_GAS",
+      "BlockReferenceTypeDescriptor.CONTADOR_GAS",
+      "BlockReferenceTypeDescriptor.LLAVE_PASO_GAS",
+      "BlockReferenceTypeDescriptor.NUDO_DERIVACION_GAS",
+      "BlockReferenceTypeDescriptor.NUDO_PASO_GAS",
+      "BlockReferenceTypeDescriptor.TOMA_PRESION_GAS",
+      "BlockReferenceTypeDescriptor.VALVULA_REG_PRESION_GAS"
+    ],
+    "selectedPropertyNames": [
+      "AcDxObjectTypeGlobalName",
+      "AcDxObjectTypeName",
+      "Color",
+      "LinetypeScale",
+      "PlotStyleName",
+      "LineWeight",
+      "AcDxEntityHyperlink",
+      "Linetype"
+    ],
+    "typeNameAlias": {
+      "BlockReferenceTypeDescriptor.CONEXION_PLANTAS_GAS": "Conexi\u00F3n entre plantas",
+      "BlockReferenceTypeDescriptor.CONEXION_RED_GAS": "Conexi\u00F3n a red",
+      "BlockReferenceTypeDescriptor.NUDO_DERIVACION_GAS": "Derivaci\u00F3n o conexi\u00F3n ramas diferentes",
+      "BlockReferenceTypeDescriptor.LLAVE_PASO_GAS": "Llave de paso",
+      "BlockReferenceTypeDescriptor.APARATO_GAS": "Aparato de utilizaci\u00F3n",
+      "BlockReferenceTypeDescriptor.NUDO_PASO_GAS": "Codo",
+      "BlockReferenceTypeDescriptor.TOMA_PRESION_GAS": "Toma de presi\u00F3n",
+      "BlockReferenceTypeDescriptor.VALVULA_REG_PRESION_GAS": "Regulador de presi\u00F3n",
+      "BlockReferenceTypeDescriptor.CONTADOR_GAS": "Contador gas"
+    },
+    "propertyNameAlias": {},
+    "$type": "Autodesk.AutoCAD.DataExtraction.WizardSettings"
+  }
+}

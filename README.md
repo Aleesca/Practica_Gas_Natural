@@ -1,1 +1,1 @@
-# Practica_Gas_Natural
+# Practica Gas Natural
