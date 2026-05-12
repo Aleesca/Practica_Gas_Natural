@@ -1,0 +1,176 @@
+\ProvidesPackage{preamble}
+
+% --- Workaround for tcolorbox 6.9.0 tagging errors ---
+\providecommand{\NewStructureName}[1]{}
+\providecommand{\AssignStructureRole}[2]{}
+\providecommand{\NewTaggingSocket}[2]{}
+\providecommand{\NewTaggingSocketPlug}[3]{}
+\providecommand{\AssignTaggingSocketPlug}[2]{}
+\providecommand{\UseTaggingSocket}[1]{}
+\providecommand{\UseStructureName}[1]{}
+\providecommand{\tagstructbegin}[1]{}
+\providecommand{\tagstructend}{}
+\providecommand{\tagpdfparaOff}{}
+
+% --- Paquetes de Fuentes y Lenguaje ---
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[spanish,es-tabla]{babel}
+
+% --- Matemáticas y Símbolos ---
+\usepackage{amsmath,amssymb}
+
+% --- Gráficos y Tablas ---
+\usepackage{graphicx}
+\usepackage{pdfpages}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+
+% --- Unidades y Formato de Página ---
+\usepackage{siunitx}
+\usepackage[top=2.8cm,bottom=2.8cm,left=2.5cm,right=2.5cm,headheight=28pt]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{lastpage}
+\usepackage{tocloft}
+\usepackage{chngcntr}
+
+% --- Configuración de los índices (TOC, LOF, LOT) ---
+\tocloftpagestyle{empty} % Páginas sin numeración ni encabezados
+\renewcommand{\cftsecpagefont}{\normalfont} % Evitar advertencias de Bold Small Caps
+
+% Títulos: Negrita y 16pt (aprox. 2 puntos más que los 14.4pt de \Large)
+\newcommand{\estiloTitulosIndices}{\fontsize{16pt}{19.2pt}\selectfont\bfseries}
+\renewcommand{\cfttoctitlefont}{\estiloTitulosIndices}
+\renewcommand{\cftloftitlefont}{\estiloTitulosIndices}
+\renewcommand{\cftlottitlefont}{\estiloTitulosIndices}
+
+% Espaciado tras los títulos
+\setlength{\cftaftertoctitleskip}{1.5cm}
+\setlength{\cftafterloftitleskip}{1.5cm}
+\setlength{\cftafterlottitleskip}{1.5cm}
+
+% Indentación de entradas
+\cftsetindents{figure}{1.5em}{2.3em}
+\cftsetindents{table}{1.5em}{2.3em}
+
+% Quitar números de página en LOF y LOT
+\cftpagenumbersoff{figure}
+\cftpagenumbersoff{table}
+
+\graphicspath{{Figuras/}}
+
+% --- Colores y Cajas ---
+\usepackage{tcolorbox}
+\usepackage{xcolor}
+
+% --- Bibliografía ---
+\usepackage{csquotes}
+\usepackage[backend=biber,style=ieee,sorting=none]{biblatex}
+
+% --- Sin numeración en páginas de índices (Redundancia de seguridad) ---
+\usepackage{etoolbox}
+\pretocmd{\tableofcontents}{\thispagestyle{empty}}{}{}
+\pretocmd{\listoffigures}{\thispagestyle{empty}}{}{}
+\pretocmd{\listoftables}{\thispagestyle{empty}}{}{}
+
+% --- Enlaces ---
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue,
+    citecolor=blue,
+    pdfstartview={FitH},
+    breaklinks=true,
+    plainpages=false
+}
+
+% --- Referencias cruzadas inteligentes ---
+\usepackage[spanish,nameinlink]{cleveref}
+\crefname{figure}{Figura}{Figuras}
+\crefname{table}{Tabla}{Tablas}
+\crefname{appendixcounter}{Anexo}{Anexos}
+
+% --- Configuración de Pies de Nota (números en azul) ---
+\makeatletter
+\renewcommand\@makefnmark{\hbox{\@textsuperscript{\normalfont\color{blue}\@thefnmark}}}
+\makeatother
+
+\definecolor{maincolor}{HTML}{005596}
+\definecolor{accentcolor}{HTML}{2E86C1}
+\definecolor{softgray}{HTML}{F5F7FA}
+
+% --- Formato de secciones (cada \section en página nueva) ---
+\titleformat{\section}[block]{\clearpage\color{black}\Large\bfseries}{\thesection}{0.8em}{}
+\titlespacing*{\section}{0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}
+\titleformat{\subsection}{\color{black}\large\bfseries}{\thesubsection}{0.8em}{}
+\titlespacing*{\subsection}{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+
+% --- Encabezado y pie de página ---
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\fancyhead[R]{\small Página \textbf{\thepage}\ de \textbf{\pageref*{LastPage}}}
+\fancyfoot[L]{\asignatura}
+
+% Pagestyle para el contenido principal (con nombre de sección en centro)
+\fancypagestyle{contenido}{
+  \fancyhf{}
+  \renewcommand{\headrulewidth}{0.4pt}
+  \renewcommand{\footrulewidth}{0.4pt}
+  \fancyhead[C]{\parbox{0.6\textwidth}{\centering\vspace{0.1cm}\small\nouppercase{\leftmark}\vspace{0.1cm}}}
+  \fancyhead[R]{\small Página \textbf{\thepage}\ de \textbf{\pageref*{LastPage}}}
+  \fancyfoot[L]{\asignatura}
+}
+
+% Redefinir sectionmark para mostrar solo el título sin el número
+\makeatletter
+\renewcommand{\sectionmark}[1]{%
+  \markboth{#1}{}%
+}
+\makeatother
+
+% --- Configuración de siunitx ---
+\sisetup{
+	locale = DE,
+	per-mode = symbol,
+	group-minimum-digits = 4,
+	table-number-alignment = center
+}
+
+% --- Numeración de figuras y tablas por sección ---
+\counterwithin{figure}{section}
+\counterwithin{table}{section}
+
+% --- Variables del documento ---
+\newcommand{\titulo}{PRÁCTICA GAS NATURAL}
+\newcommand{\asignatura}{Instalaciones II}
+
+% --- Estilo de anexos ---
+\newcounter{appendixcounter}
+\renewcommand{\theappendixcounter}{\arabic{appendixcounter}}
+
+\newcommand{\myappendix}[1]{%
+	\cleardoublepage
+	\thispagestyle{empty}
+	\refstepcounter{appendixcounter}
+	\vspace*{\fill}
+	\begin{center}
+		\parbox{0.9\textwidth}{\centering\Huge\bfseries Anexo \theappendixcounter. #1}
+	\end{center}
+	\vspace*{\fill}
+	\addcontentsline{toc}{section}{Anexo \theappendixcounter: #1}
+	\normalfont
+	\cleardoublepage
+}
+

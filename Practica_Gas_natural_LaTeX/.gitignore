@@ -1,0 +1,24 @@
+# Temporales de LaTeX
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.pdf
+*.run.xml
+*.synctex*
+*.toc
+*.auxlock
+*.bak
+
+# Directorios de compilación
+out/
+out.nosync/
+
+# Otros
+TikZ-Cache/
